@@ -1,2 +1,10 @@
 ﻿l_russian:
- available_industrial_concern:0 "Доступен §YПромышленный концерн§!:\n"
+
+ available_political_advisor:0 "§YМожна§! назначити §Yполітичним радником§!:\n"
+ available_chief_of_army:0 "§YМожна§! назначити §Yголовнокомандуючим армією§!:\n"
+ available_chief_of_navy:0 "§YМожна§! назначити §Yголовнокомандуючим ВМФ§!:\n"
+ available_chief_of_airforce:0 "§YМожна§! назначити §Yголовнокомандуючим ВВС§!:\n"
+ available_military_high_command:0 "§YМожна§! назначити §Yверховним головнокомандуючим§!:\n"
+ available_theorist:0 "§YМожна§! назначити §Yтеоретиком§!:\n"
+ available_designer:0 "§YМожна§! використовувати як §Yконструкторське бюро§!:\n"
+ available_industrial_concern:0 "§YМожна§! використовувати як §Yпромисловий концерн§!:\n"
